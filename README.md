@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h1>Hi 👋</h1>
+
 
 - 📫 How to reach me **davidaliev664@gmail.com**
 
