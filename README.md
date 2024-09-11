@@ -2,15 +2,6 @@
         <img src="https://img.shields.io/badge/telegram-black" alt="Telegram Badge">
     </a>
 
-#### About me
-
-- 👦 &nbsp;I'm David
-- 💻 &nbsp; Front-End developer
-- 💘 &nbsp; Coding, games
-- 🎮 &nbsp; Hobbys - Web site coding,gym
-- ⌚ &nbsp; I'm 18 years old,currenlty at uni,LNU(applied mathematics)
-- 🏢 &nbsp; I'v been studying computer science and frontend for 1 year
-
 <h4>💻 Tech stack:</h4>
 
 ![Html](https://img.shields.io/badge/HTML5-E0244D?style=for-the-badge&logo=html5&logoColor=white) 
